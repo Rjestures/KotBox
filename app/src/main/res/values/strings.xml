@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotBox</string>
+    <string name="dataListing">Data Listing</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority" />
+    <string name="save">Save</string>
+    <string name="delete_all_notes">Delete all notes</string>
+</resources>
